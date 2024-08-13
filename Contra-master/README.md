@@ -78,3 +78,4 @@ Sprite sounds | Effects from [bfxr](https://www.bfxr.net/)
 Sprites | Google images
 
 # Thank you for playing
+## Made by Vaîbhāv Gâùr
